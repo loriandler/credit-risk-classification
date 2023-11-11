@@ -37,11 +37,11 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
   __Confusion Matrix:__<br>
- ![Confusion Matrix](/Challenges/Module%2020%20Credit-Risk-Classification%20Challenge/credit-risk-classification/Credit_Risk/confusion_matrix.png)
+ ![Confusion Matrix](Credit_Risk/confusion_matrix.png)
 
 
   __Classification Report:__<br>
-  ![Classification Report](/Challenges/Module%2020%20Credit-Risk-Classification%20Challenge/credit-risk-classification/Credit_Risk/classification_report.png)
+  ![Classification Report](Credit_Risk/classification_report.png)
 
 - Accuracy of this model is 99%
 - Precision for healthy loans (`0`) is 100% / for high-risk loans (`1`) is 85%.
