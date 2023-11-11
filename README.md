@@ -64,3 +64,6 @@ For healthy loans `0`, the recall is 99%.  This indicates that the model correct
 For healthly loans `0`, the balance of precision & recall (F1-Score) is 100%  and 88% for high-risk loans `1`.  This is a pretty good balance between precision and recall for both.
 
 The logistic regression model shows a good predictive model for both healthy & high-risk loans.
+
+## Credits
+Thank you to Hunter Hollis, instructor, and TA's Randy and Sam for this week's instruction.
